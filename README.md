@@ -4,7 +4,7 @@ Reverse engineered database of the https://rexburgmovies.com/paramount-5 website
 # Purpose
 This database was created in order to practice reverse engineering websites.
 
- ![ER Diagram](movies.png)
+ ![ER Diagram](movies.jpg)
 
 # Participants
 * Kate Clark
